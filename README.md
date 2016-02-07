@@ -7,3 +7,4 @@ Hello, this is my first commit message. I love cooking and organizing my shelves
 * second item in list
 * third item in list#
 * fourth item in list
+install.packages (c("slidify","ggplot2","devtools"))
